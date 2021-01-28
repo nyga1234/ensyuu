@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  margin: 50px;
+}
+
+.rist {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.rist-box {
+  padding: 20px;
+}
+
+.rist-box:nth-child(odd) {
+  padding: 20px;
+  background-color: darkgray;
+}
+
+.rist-box:nth-child(1) {
+  margin-top: 50px;
+}
+
+.rist-box:nth-child(7) {
+  margin-bottom: 50px;
+}
+
+.main {
+  width: 960px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box1 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+  margin-bottom: 40px;
+  margin-right: 5%;
+}
+
+.box2 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin-bottom: 40px;
+  margin-right: 5%;
+}
+
+.box3 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin-bottom: 40px;
+}
+
+.box4 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin-bottom: 40px;
+  margin-right: 5%;
+}
+
+.box5 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+  margin-bottom: 40px;
+  margin-right: 5%;
+}
+
+.box6 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin-bottom: 40px;
+}
+
+.box7 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin-right: 5%;
+}
+
+.box8 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+  margin-right: 5%;
+}
+
+.box9 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+}
